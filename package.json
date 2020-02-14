@@ -1,0 +1,14 @@
+{
+    "name": "umi-test",
+    "version": "1.0.0",
+    "description": "learn umi framework with kaike8",
+    "main": "index.js",
+    "author": "tyler4400",
+    "license": "MIT",
+    "devDependencies": {
+        "umi": "^2.13.3"
+    },
+    "scripts": {
+        "start": "umi dev"
+    }
+}
